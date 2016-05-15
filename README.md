@@ -11,3 +11,8 @@ All you have to do is run `npm start` in `$HOME/dcos-vagrant-build/ui`.
 
 ## Why Python and not Bash?
 I know there's a lot of subprocess calls, but I wanted this to be relatively cross-platform.
+
+## Can I help?
+Sure! Pull Requests are most welcome! I recently decided to get back into
+Python so if you have any suggestions for improvements or see anything I've
+done that's a big no no, feel free to let me know or submit a PR. Thanks!
